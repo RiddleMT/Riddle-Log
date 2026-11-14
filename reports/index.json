@@ -1,0 +1,41 @@
+{
+  "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.25.0"
+  },
+  "entries": [
+    {
+      "id": "20261114-174141-2rha",
+      "title": "Riddle Returns",
+      "commanders": [
+        "Riddle Returns"
+      ],
+      "guild": {
+        "id": "BBC7CDF4-0241-E611-80D4-E4115BDFF975",
+        "name": "World Elite",
+        "tag": "WE"
+      },
+      "dateStart": "2026-11-14T09:41:41.000Z",
+      "dateEnd": "2026-11-14T09:44:01.289Z",
+      "dateLabel": "2026/11/14 17:41:41 - 2026/11/14 17:44:01",
+      "url": "https://riddlemt.github.io/Riddle-Log/?report=20261114-174141-2rha",
+      "publishedBy": "RiddleMT",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 28
+      }
+    }
+  ]
+}
