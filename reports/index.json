@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261115-085510-3v70",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
+      ],
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-11-15T00:55:10.000Z",
+      "dateEnd": "2026-11-15T01:47:06.088Z",
+      "dateLabel": "2026/11/15 08:55:10 - 2026/11/15 09:47:06",
+      "url": "https://riddlemt.github.io/Riddle-Log/?report=20261115-085510-3v70",
+      "publishedBy": "RiddleMT",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 30,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20261114-174141-wu7p",
       "title": "Riddle Returns",
       "commanders": [
